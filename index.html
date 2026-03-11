@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【実況】身の回りで変なことが起こったら実況するスレ 26</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="mode-both">
+
+    <div class="header-controls">
+        <span>表示設定:</span>
+        <button class="btn-toggle" onclick="setMode('ja')">日本語のみ</button>
+        <button class="btn-toggle" onclick="setMode('de')">Deutsch</button>
+        <button class="btn-toggle active" onclick="setMode('both')">併記 (Beide)</button>
+    </div>
+
+    <div class="thread-container">
+        <div class="thread-title"></div>
+        <div id="posts-container"></div>
+
+        <div style="text-align: center; color: #555; padding: 20px; font-weight: bold; border-top: 1px solid #ccc;">
+            このスレッドは 1000 を超えました。<br>
+            もう書けません。
+        </div>
+    </div>
+
+    <div class="footer-form">
+        <form>
+            名前： <input type="text" value="あなたのうしろに名無しさんが・・・" size="30"><br>
+            E-mail： <input type="text" value="sage" size="30"><br>
+            <textarea rows="5" style="width:100%"></textarea><br>
+            <button type="button">書き込む</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

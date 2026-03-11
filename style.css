@@ -1,0 +1,92 @@
+body {
+    background-color: #efefef;
+    color: #000;
+    font-family: "MS PGothic", "Mona", "IPAMonaPGothic", sans-serif;
+    line-height: 1.4;
+    margin: 0;
+    padding: 20px;
+}
+
+.header-controls {
+    position: sticky;
+    top: 0;
+    background: #ddd;
+    padding: 10px;
+    border: 1px solid #aaa;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    z-index: 100;
+}
+
+.btn-toggle {
+    padding: 2px 10px;
+    cursor: pointer;
+    font-size: 0.8em;
+    background: #f0f0f0;
+    border: 1px solid #999;
+}
+
+.btn-toggle.active {
+    background: #ccc;
+    font-weight: bold;
+}
+
+.thread-container {
+    max-width: 900px;
+    margin: 0 auto;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.thread-title {
+    color: #ff0000;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.post {
+    margin-bottom: 25px;
+    padding: 5px;
+}
+
+.post-header {
+    font-weight: bold;
+    color: #222;
+}
+
+.post-content {
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 16px;
+    white-space: pre-wrap;
+}
+
+.translation-block {
+    display: block;
+    margin-top: 5px;
+    padding: 8px;
+    background-color: #f4f4f4;
+    border-left: 3px solid #ccc;
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+    font-family: sans-serif;
+}
+
+/* 言語制御モード */
+body.mode-ja .translation-block { display: none; }
+body.mode-de .lang-ja { display: none; }
+
+.anchor { color: #0000ff; text-decoration: none; }
+.hasumi { color: #00008b; }
+.tripcode { color: #008000; }
+
+.footer-form {
+    background-color: #ddd;
+    padding: 15px;
+    margin-top: 30px;
+    border: 1px solid #aaa;
+}
