@@ -11,4 +11,4 @@ https://nbtkmy.github.io/kisaragieki/
 
 
 Der Layout dieser Präsentation wurde durch Claude Sonnet 4.6 generiert.
-Wie man ihn verwendet, ist in "
+Wie man ihn verwendet, ist in "torisetsu.md" beschrieben
