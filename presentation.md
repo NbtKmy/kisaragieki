@@ -311,34 +311,29 @@ section.image-slide .text-half {
 ---
 
 <!-- ══════════════════════════════════════════════════════
-     FOLIE 2 — KONTEXT
+     FOLIE 2 - Inhaltsübersicht
 ══════════════════════════════════════════════════════════ -->
 
-## Was ist *Netto Kaidan*?
+# Inhaltsübersicht
 
-**Netto Kaidan** (ネット怪談) — Internet-Horrorgeschichten, die auf japanischen Imageboards entstanden sind.
+1. Was ist "Kisaragi-eki" - Kurze Überblick
+1. Kontext 1 - Japanische Kaidan-Kultur
+1. Kontext 2 - Netto Kaidan und 2channel
+1. Creepypasta 
 
-| Merkmal | Beschreibung |
-|---|---|
-| Medium | Anonyme Foren (2ch, etc.) |
-| Format | Livebericht, Screenshot-Threads |
-| Besonderheit | Mehrstimmig — Poster reagieren in Echtzeit |
-| Wirkung | Grenze zwischen Fiktion und Realität verschwimmt |
-
-> Bekannte Beispiele: *Toire no Hanako*, *Hitori Kakurenbo*, **Kisaragi-eki**
 
 ---
 
 <!-- ══════════════════════════════════════════════════════
-     FOLIE 3 — HINTERGRUND
+     FOLIE 3 — Kurze Überblick
 ══════════════════════════════════════════════════════════ -->
 <!-- _class: divider -->
 
-# Nacht des 8. Januar 2004
+# Kisaragieki - Nacht des 8. Januar 2004
 
 <div class="chapter-num">I</div>
 
-Thread: 「身の回りで変なことが起こったら実況するスレ 26」
+Thread: 「身の回りで変なことが起こったら実況するスレ 26」([simuliertes Thread](https://nbtkmy.github.io/kisaragieki/))
 *„Live-Bericht-Thread, wenn seltsame Dinge passieren, Teil 26"*
 
 ---
@@ -374,14 +369,66 @@ Thread: 「身の回りで変なことが起こったら実況するスレ 26」
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     FOLIE 5 — DER BAHNHOF ERSCHEINT
-══════════════════════════════════════════════════════════ -->
+
 <!-- _class: divider -->
 
 # »Kisaragi«
 
-<div class="chapter-num">II</div>
 
 *Ein Bahnhof, den es nicht geben sollte.*
+
+![bg left:45% brightness:0.35 saturate:0.3](assets/kisaragieki_bahnhof.png)
+
+
+---
+
+<!-- _class: divider -->
+
+# Japanische Kaidan-Kultur
+
+<div class="chapter-num">II</div>
+
+---
+
+
+![bg left:45% brightness:0.35 saturate:0.3](assets/ryoiki.jpg)
+
+- Lange Tradition der "seltsamen Geschichten", z.B. 日本国現報善悪霊異記 (Nihonkoku genpo zen'aku ryoiki, etwa 822)
+- Solche "Horror"-Geschichten dient der Religion
+
+---
+
+
+![bg left:45% brightness:0.35 saturate:0.3](assets/mimibukuro.jpg)
+
+- Kaidan/Horror-Geschichten als reine Unterhaltung erst seit der Edo-Zeit
+- Mimibukuro (耳嚢)/ verfasst von Negishi Shizumori (根岸鎮衛) zwischen 1784? und 1814
+
+
+
+---
+
+<!-- _class: divider -->
+
+# Netto Kaidan und 2channel
+
+<div class="chapter-num">III</div>
+
+---
+
+
+## Was ist *Netto Kaidan*?
+
+**Netto Kaidan** (ネット怪談) — Internet-Horrorgeschichten, die auf japanischen Imageboards entstanden sind.
+
+| Merkmal | Beschreibung |
+|---|---|
+| Medium | Anonyme Foren (2ch, etc.) |
+| Format | Livebericht, Screenshot-Threads |
+| Besonderheit | Mehrstimmig — Poster reagieren in Echtzeit |
+| Wirkung | Grenze zwischen Fiktion und Realität verschwimmt |
+
+> Bekannte Beispiele: *Kunekune(くねくね)*, *Kotoribako(コトリバコ)*, **Kisaragi-eki**
+
+---
 
