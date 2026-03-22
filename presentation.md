@@ -295,9 +295,7 @@ section.image-slide .text-half {
 }
 </style>
 
-<!-- ══════════════════════════════════════════════════════
-     FOLIE 1 — TITEL
-══════════════════════════════════════════════════════════ -->
+
 <!-- _class: title -->
 
 # Kisaragi-eki
@@ -310,13 +308,11 @@ section.image-slide .text-half {
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     FOLIE 2 - Inhaltsübersicht
-══════════════════════════════════════════════════════════ -->
+
 
 # Inhaltsübersicht
 
-1. Was ist "Kisaragi-eki" - Kurze Überblick
+1. Was ist "Kisaragi-eki" - Überblick
 1. Kontext 1 - Japanische Kaidan-Kultur
 1. Kontext 2 - Netto Kaidan und 2channel
 1. Creepypasta 
@@ -324,12 +320,10 @@ section.image-slide .text-half {
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     FOLIE 3 — Kurze Überblick
-══════════════════════════════════════════════════════════ -->
+
 <!-- _class: divider -->
 
-# Kisaragieki - Nacht des 8. Januar 2004
+# Es begann nachts des 8. Januar 2004
 
 <div class="chapter-num">I</div>
 
@@ -338,9 +332,7 @@ Thread: 「身の回りで変なことが起こったら実況するスレ 26」
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     FOLIE 4 — ERSTE POSTS
-══════════════════════════════════════════════════════════ -->
+
 <!-- _class: post -->
 
 ### 23:14 Uhr — Die Nachricht beginnt
@@ -380,6 +372,91 @@ Thread: 「身の回りで変なことが起こったら実況するスレ 26」
 ![bg left:45% brightness:0.35 saturate:0.3](assets/kisaragieki_bahnhof.png)
 
 
+
+---
+
+<!-- _class: post -->
+
+### 00:29 Uhr — Die Bahnhof I
+
+<div class="post-entry hasumi">
+  <div class="meta">No.167 &nbsp;/&nbsp; はすみ &nbsp;/&nbsp; 04/01/09 00:29</div>
+  <div class="text-de">„Ich bin ausgestiegen. Es ist ein unbemannter Bahnhof. Ich glaube, ich bin um 11:40 Uhr eingestiegen."</div>
+  <div class="text-ja">降りてしまいました。無人駅です。乗った電車は１１時40分だったと思います。</div>
+</div>
+
+<div class="post-entry">
+  <div class="meta">No.170 &nbsp;/&nbsp; 04/01/09 00:32</div>
+  <div class="text-de">„'Kisaragi Station' taucht nicht in den Suchergebnissen auf..."</div>
+</div>
+
+<div class="post-entry hasumi">
+  <div class="meta">No.176 &nbsp;/&nbsp; はすみ &nbsp;/&nbsp; 04/01/09 00:34</div>
+  <div class="text-de">„Ich versuche zurückzukommen, aber ich finde keinen Fahrplan. Der Zug steht noch, also wäre es vielleicht sicherer, wieder einzusteigen. Oh, da fährt er schon los."</div>
+  <div class="text-ja">戻ろうと思い時刻表を探しているのですが見当たりません。電車はまだ停車していますのでもう一度乗ったほうが無難でしょうか。と書いてるうちにいってしまいました。</div>
+</div>
+
+
+
+---
+
+<!-- _class: post -->
+
+### 00:29 Uhr — Die Bahnhof II
+
+<div class="post-entry">
+  <div class="meta">No.200 &nbsp;/&nbsp; 04/01/09 00:43</div>
+  <div class="text-de">„>>Hasumi-san
+Ähm... Es gibt keinen Bahnhof namens Kisaragi, könntest du das bitte noch einmal überprüfen? Der Name des Bahnhofs."</div>
+
+<div class="post-entry">
+  <div class="meta">No.221 &nbsp;/&nbsp; 04/01/09 00:57</div>
+  <div class="text-de">„Ich habe gerade nachgeschlagen, und wenn man '鬼' schreibt, kann man es als 'Kisaragi' lesen…?"</div>
+</div>
+
+<div class="post-entry">
+  <div class="meta">No.225 &nbsp;/&nbsp; 04/01/09 01:00</div>
+  <div class="text-de">„>>221
+Oni‑Station? … oh."</div>
+</div>
+
+<div class="post-entry hasumi">
+  <div class="meta">No.229 &nbsp;/&nbsp; はすみ &nbsp;/&nbsp; 04/01/09 01:01</div>
+  <div class="text-de">„[...] Es gibt keine Anzeige für die nächste oder die vorherige Station."</div>
+  <div class="text-ja">[...] 次の駅も前の駅も表示がないです。</div>
+</div>
+
+
+---
+
+---
+
+<!-- _class: post -->
+
+### 00:29 Uhr — Die Bahnhof III
+
+<div class="post-entry hasumi">
+  <div class="meta">No.386 &nbsp;/&nbsp; はすみ &nbsp;/&nbsp; 04/01/09 01:57</div>
+  <div class="text-de">„Ich höre von weitem ein Trommel‑ähnliches Geräusch und ein klingelndes Summen, aber ehrlich gesagt weiß ich nicht mehr, was ich tun soll."</div>
+</div>
+
+<div class="post-entry">
+  <div class="meta">No.395 &nbsp;/&nbsp; 04/01/09 02:00</div>
+  <div class="text-de">„Es fängt jetzt an…"</div>
+
+<div class="post-entry hasumi">
+  <div class="meta">No.401 &nbsp;/&nbsp; はすみ &nbsp;/&nbsp; 04/01/09 02:01</div>
+  <div class="text-de">„Vielleicht wird das als Lüge angesehen, aber ich habe Angst und kann nicht zurückschauen. Ich möchte zum Bahnhof zurück, aber ich kann mich nicht umdrehen."</div>
+</div>
+
+<div class="post-entry">
+  <div class="meta">No.406 &nbsp;/&nbsp; 04/01/09 02:03</div>
+  <div class="text-de">„>>401
+Renne. Drehe dich niemals um."</div>
+</div>
+
+
+
 ---
 
 <!-- _class: divider -->
@@ -393,6 +470,8 @@ Thread: 「身の回りで変なことが起こったら実況するスレ 26」
 
 ![bg left:45% brightness:0.35 saturate:0.3](assets/ryoiki.jpg)
 
+### Setsuwa (説話)
+
 - Lange Tradition der "seltsamen Geschichten", z.B. 日本国現報善悪霊異記 (Nihonkoku genpo zen'aku ryoiki, etwa 822)
 - Solche "Horror"-Geschichten dient der Religion
 
@@ -400,6 +479,8 @@ Thread: 「身の回りで変なことが起こったら実況するスレ 26」
 
 
 ![bg left:45% brightness:0.35 saturate:0.3](assets/mimibukuro.jpg)
+
+### Entwicklung in der Edo-Zeit
 
 - Kaidan/Horror-Geschichten als reine Unterhaltung erst seit der Edo-Zeit
 - Mimibukuro (耳嚢)/ verfasst von Negishi Shizumori (根岸鎮衛) zwischen 1784? und 1814
