@@ -9,6 +9,7 @@ https://nbtkmy.github.io/kisaragieki/
 
 ## Präsentation
 
+https://nbtkmy.github.io/kisaragieki/presentation.html
 
 Der Layout dieser Präsentation wurde durch Claude Sonnet 4.6 generiert.
 Wie man ihn verwendet, ist in "torisetsu.md" beschrieben
