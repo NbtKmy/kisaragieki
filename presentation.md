@@ -6,13 +6,13 @@ paginate: true
 ---
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;700&family=Share+Tech+Mono&family=Cinzel:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;700&family=IBM+Plex+Mono:wght@300;400;700&family=Cinzel:wght@400;700&display=swap');
 
 /* ── Basis ─────────────────────────────────────────────── */
 section {
   background-color: #08090e;
   color: #a8b8c4;
-  font-family: 'Share Tech Mono', 'Courier New', monospace;
+  font-family: 'IBM Plex Mono', 'Courier New', monospace;
   padding: 60px 80px;
   position: relative;
   overflow: hidden;
@@ -38,7 +38,7 @@ section::before {
 section::after {
   color: #2a2e3a;
   font-size: 0.65em;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 /* ── Typografie ─────────────────────────────────────────── */
@@ -183,7 +183,7 @@ section.title h2 {
   color: #50606e;
   font-size: 0.9em;
   letter-spacing: 0.25em;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   border: none;
 }
 
@@ -315,7 +315,7 @@ section.image-slide .text-half {
 1. Was ist "Kisaragi-eki" - Überblick
 1. Kontext 1 - Japanische Kaidan-Kultur
 1. Kontext 2 - Netto Kaidan und 2channel
-1. Creepypasta 
+1. Fazit
 
 
 ---
@@ -377,7 +377,7 @@ Thread: 「身の回りで変なことが起こったら実況するスレ 26」
 
 <!-- _class: post -->
 
-### 00:29 Uhr — Die Bahnhof I
+### 00:29 Uhr — Der Bahnhof I
 
 <div class="post-entry hasumi">
   <div class="meta">No.167 &nbsp;/&nbsp; はすみ &nbsp;/&nbsp; 04/01/09 00:29</div>
@@ -402,7 +402,7 @@ Thread: 「身の回りで変なことが起こったら実況するスレ 26」
 
 <!-- _class: post -->
 
-### 00:29 Uhr — Die Bahnhof II
+### 00:29 Uhr — Der Bahnhof II
 
 <div class="post-entry">
   <div class="meta">No.200 &nbsp;/&nbsp; 04/01/09 00:43</div>
@@ -427,13 +427,12 @@ Oni‑Station? … oh."</div>
 </div>
 
 
----
 
 ---
 
 <!-- _class: post -->
 
-### 00:29 Uhr — Die Bahnhof III
+### 00:29 Uhr — Der Bahnhof III
 
 <div class="post-entry hasumi">
   <div class="meta">No.386 &nbsp;/&nbsp; はすみ &nbsp;/&nbsp; 04/01/09 01:57</div>
@@ -472,8 +471,8 @@ Renne. Drehe dich niemals um."</div>
 
 ### Setsuwa (説話)
 
-- Lange Tradition der "seltsamen Geschichten", z.B. 日本国現報善悪霊異記 (Nihonkoku genpo zen'aku ryoiki, etwa 822)
-- Solche "Horror"-Geschichten dient der Religion
+- Lange Tradition der "seltsamen Geschichten", z.B. 日本国現報善悪霊異記 (Nihonkoku genpō zen'aku ryōiki, etwa 822)
+- Solche „Horror"-Geschichten dienten der Religion
 
 ---
 
@@ -482,10 +481,18 @@ Renne. Drehe dich niemals um."</div>
 
 ### Entwicklung in der Edo-Zeit
 
-- Kaidan/Horror-Geschichten als reine Unterhaltung erst seit der Edo-Zeit
-- Mimibukuro (耳嚢)/ verfasst von Negishi Shizumori (根岸鎮衛) zwischen 1784? und 1814
+- Kaidan/Horror-Geschichten als reine Unterhaltung
+- Mimibukuro (耳嚢) — verfasst von Negishi Shizumori (根岸鎮衛) zwischen 1784? und 1814
 
 
+
+---
+
+![bg left:45% brightness:0.35 saturate:0.3](assets/tono_monogatari.jpg)
+
+### Entwicklung seit Meiji-Zeit
+- Tōno monogatari (遠野物語) / hrsg. von Yanagita Kunio (柳田国男). 1910
+- Geistergeschichten zugleich als Gegenstand der Ethnologie
 
 ---
 
@@ -500,7 +507,7 @@ Renne. Drehe dich niemals um."</div>
 
 ## Was ist *Netto Kaidan*?
 
-**Netto Kaidan** (ネット怪談) — Internet-Horrorgeschichten, die auf japanischen Imageboards entstanden sind.
+**Netto Kaidan** (ネット怪談) — Internet-Horrorgeschichten, die auf japanischen Textboards entstanden sind.
 
 | Merkmal | Beschreibung |
 |---|---|
@@ -512,4 +519,51 @@ Renne. Drehe dich niemals um."</div>
 > Bekannte Beispiele: *Kunekune(くねくね)*, *Kotoribako(コトリバコ)*, **Kisaragi-eki**
 
 ---
+
+## 2channel (2ちゃんねる)
+
+- **1999** gegründet von Nishimura Hiroyuki (西村博之) — größtes japanisches Internetforum seiner Zeit
+- **Anonymität als Prinzip**: kein Nutzername, kein Profil — jeder postet als „名無しさん" (*Mr. Niemand*)
+- Bestimmte Threads nutzen das **実況-Format** (*jikkyō*, Live-Bericht): Nutzer berichten in Echtzeit über laufende Ereignisse — z.B. *„身のまわりで変なことが起こったら実況するスレ"* — genau der Thread, in dem Kisaragi-eki entstand
+
+---
+
+## Horrorgeschichten auf 2channel
+
+- Bekannter Thread: *「死ぬ程洒落にならない怖い話を集めてみない？」*
+  „Lasst uns Geschichten sammeln, die so gruselig sind, dass es kein Spaß mehr ist"
+- Viele Geschichten waren bereits anderswo im Internet veröffentlicht — **Copy-Paste-Kultur**: Inhalte wandern ohne feste Quelle
+- Entscheidend: Die Poster wollen **keine Autoren sein** — keine Urheberschaft, keine Signatur, nur die Geschichte zählt *(Ausnahmen existieren)*
+
+---
+
+
+<!-- _class: divider -->
+
+# Fazit
+
+<div class="chapter-num">IV</div>
+
+---
+
+## Das Erzählmotiv bleibt — alles andere verändert sich
+
+- **Das Was** ist uralt: der Schrecken vor einer Welt jenseits der unseren — das zieht sich von Setsuwa bis Kisaragi-eki durch.
+- **Das Wie** hat sich transformiert: nicht mehr nachträglich gesammelt und vom Gelehrten geformt, sondern miterlebt, in Echtzeit, ohne Abstand.
+- **Das Wer** hat sich demokratisiert: kein Negishi, kein Yanagita — eine anonyme Frau in einem Zug, und Dutzende Unbekannte, die ihr sagen: *Lauf. Schau dich nicht um.*
+
+---
+
+<!-- _class: divider -->
+
+# Literatur
+
+---
+
+- Donath, Judith S. „Identity and Deception in the Virtual Community“. In Communities in Cyberspace, herausgegeben von P. Kollock und M. Smith. Routledge, 1998.
+- Taylor, Tosha R. „Horror Memes and Digital Culture“. In The Palgrave Handbook of Contemporary Gothic, herausgegeben von Clive Bloom. Springer International Publishing, 2020. https://doi.org/10.1007/978-3-030-33136-8_58.
+- Hirota, Ryūhei. Netto kaidan no minzokugaku (ネット怪談の民俗学). Hayakawa Shobō, 2024.
+- Tsutsumi, Kunihiko. Ōedo kaidan jijō : „Mimibukuro“ no kaii o himotoku (大江戸怪談事情: 『耳嚢』の怪異をひもとく). Yoshikawa Kōbunkan, 2025.
+
+
 
